@@ -1,0 +1,4 @@
+Model,Epochs,Learning Rate,Accuracy
+Model 1,10,0.01,0.81
+Model 2,20,0.001,0.86
+Model 3,30,0.0001,0.84
